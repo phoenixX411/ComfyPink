@@ -320,7 +320,9 @@
 .theme-dark .wrapper-1-Fsb8,
 .theme-dark .emojiPicker-3PwZFl,
 .theme-dark .option-96V44q.selected-rZcOL-,
-.theme-dark .card-3DjzTQ {
+.theme-dark .card-3DjzTQ,
+.theme-dark .titleContainer-2CXtJo,
+.theme-dark .header-2mZ9Ov {
     background-color: var(--secondary-bg);
 }
 
@@ -967,7 +969,8 @@
 .theme-dark .uploadModal-2ifh8j .inner-3nWsbo .file-34mY5K .icon-kyxXVr.image-2yrs5j,
 .theme-dark .bd-addon-error,
 .theme-dark .bd-tab-item,
-.theme-dark .quickSelectPopout-X1hvgV {
+.theme-dark .quickSelectPopout-X1hvgV,
+.theme-dark .container-_phMUq {
     border-radius: var(--border-radius);
 }
 
