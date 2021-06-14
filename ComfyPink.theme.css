@@ -5,9 +5,10 @@
     * @author rysworldd#8238
     * @authorId 556120718669119499
     * @website https://rysworldd.carrd.co
+    * @source https://github.com/rydevelopment/ComfyPink
 **/
 
-@import url('https://ryoncord.github.io/ComfyPink/base.css');
+@import url('https://rydevelopment.github.io/ComfyPink/base.css');
 
 :root {
     --tooltip-color: #24141d;
