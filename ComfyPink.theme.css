@@ -1,14 +1,14 @@
 /**
     * @name ComfyPink 🌺
-    * @version 1.0.1
+    * @version 1.0.2
     * @description If you find any unthemed areas make a issue with a screenshot of that area, also try to provide the location of the area, that will be appreciated.
     * @author rysworldd#8238
     * @authorId 556120718669119499
-    * @website https://rysworldd.carrd.co
-    * @source https://github.com/rydevelopment/ComfyPink
+    * @website https://rysworld.carrd.co
+    * @source https://github.com/rysworldd/ComfyPink
 **/
 
-@import url('https://rydevelopment.github.io/ComfyPink/base.css');
+@import url('https://rysworldd.github.io/ComfyPink/base.css');
 
 :root {
     --tooltip-color: #24141d;
